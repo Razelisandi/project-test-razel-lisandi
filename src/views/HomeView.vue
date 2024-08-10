@@ -81,7 +81,6 @@
             <ul class="dropdown-menu dropdown-menu-dark">
               <li><a class="dropdown-item active" href="#">Newest</a></li>
               <li><a class="dropdown-item" href="#">Latest</a></li>
-              <li><a class="dropdown-item" href="#">Most Popular</a></li>
             </ul>
           </div>
         </div>
