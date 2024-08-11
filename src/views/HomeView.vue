@@ -181,10 +181,7 @@
             <nav aria-label="...">
               <ul class="pagination  justify-content-center">
                 <li class="page-item disabled">
-                  <span class="page-link"> << </span>
-                </li>
-                <li class="page-item disabled">
-                  <span class="page-link"> < </span>
+                  <span class="page-link"> back </span>
                 </li>
                 <li class="page-item active" aria-current="page">
                   <span class="page-link">1</span>
